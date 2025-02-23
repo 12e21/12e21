@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @12e21
-- 👀 I’m interested in robot and AI
-- 🌱 I’m currently learning PX4
-- 💞️ I’m looking to collaborate on robot
+- 👋 Hi, I’m Bingqian
+- 👀 I’m interested in 3D Vision , Embodied AI
+- 🌱 I’m currently learning Deep Reinforcement Learning 
+- 💞️ I’m looking to collaborate on Embodied AI and robotics
 - 📫 How to reach me -> my email:2496813401@qq.com
 
