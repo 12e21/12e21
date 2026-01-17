@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">Bingqian Wu</h3>
-<p align="center"><sub>Embodied Intelligence Developer</sub></p>
+<p align="center"><sub>a embodied intelligence developer</sub></p>
 
 ## Focus
 
